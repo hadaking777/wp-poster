@@ -1,0 +1,4 @@
+# 実際の接続情報・投稿履歴が入るので絶対に上げない
+data/config.json
+data/posted.json
+data/logs/
